@@ -1,0 +1,1 @@
+Mapped Plugin for Claude
