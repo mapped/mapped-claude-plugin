@@ -26,7 +26,7 @@ write, only what your Mapped account is already allowed to.
 Install it from the Claude plugin directory, or in Claude Code:
 
 ```
-/plugin install mapped-mcp --marketplace mapped/mapped-claude-plugin
+/plugin install mapped --marketplace mapped/mapped-claude-plugin
 ```
 
 Then run `/mcp`, select the `mapped` server and choose **Authenticate**. A

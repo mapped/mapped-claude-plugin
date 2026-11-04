@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "mapped-mcp",
+      "name": "mapped",
       "source": "./",
       "description": "Generate and run Mapped GraphQL queries from natural language, and explore the Mapped ontology, via Mapped's hosted MCP server."
     }
