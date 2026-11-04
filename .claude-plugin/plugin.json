@@ -5,7 +5,7 @@
   "description": "Access Mapped's building data graph via the mapped-mcp server: generate and run Mapped GraphQL queries from natural language, and explore the Mapped ontology (entity-type hierarchy, tag search, and type definitions).",
   "author": {
     "name": "Mapped",
-    "email": "jason@mapped.com",
+    "email": "contact@mapped.com",
     "url": "https://www.mapped.com"
   },
   "homepage": "https://www.mapped.com",
