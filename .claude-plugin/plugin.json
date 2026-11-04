@@ -1,0 +1,20 @@
+{
+  "name": "mapped",
+  "displayName": "Mapped",
+  "version": "0.2.0",
+  "description": "Access Mapped's building data graph via the mapped-mcp server: generate and run Mapped GraphQL queries from natural language, and explore the Mapped ontology (entity-type hierarchy, tag search, and type definitions).",
+  "author": {
+    "name": "Mapped",
+    "email": "contact@mapped.com",
+    "url": "https://www.mapped.com"
+  },
+  "homepage": "https://www.mapped.com",
+  "repository": "https://github.com/mapped/mapped-claude-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "mapped", "graphql", "ontology", "buildings"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://github.com/mapped/mapped-claude-plugin#readme",
+  "supportUrl": "https://www.mapped.com/contact",
+  "privacyPolicyUrl": "https://www.mapped.com/legal/privacy-policy",
+  "termsOfServiceUrl": "https://www.mapped.com/legal/CustomerAgreement"
+}

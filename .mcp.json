@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mapped": {
+      "type": "http",
+      "url": "https://mcp.mapped.com/mcp"
+    }
+  }
+}
