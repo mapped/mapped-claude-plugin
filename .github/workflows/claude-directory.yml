@@ -1,6 +1,8 @@
 name: Notify Claude Directory
 
-on: push
+on:
+  push:
+    branches: [main]
 
 jobs:
   notify:
