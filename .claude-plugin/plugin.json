@@ -13,7 +13,7 @@
   "license": "MIT",
   "keywords": ["mcp", "mapped", "graphql", "ontology", "buildings"],
   "icon": "./assets/logo.png",
-  "documentationUrl": "https://github.com/mapped/mapped-claude-plugin#readme",
+  "documentationUrl": "https://docs.mapped.com/guides/agent-plugins/claude-plugin",
   "supportUrl": "https://www.mapped.com/contact",
   "privacyPolicyUrl": "https://www.mapped.com/legal/privacy-policy",
   "termsOfServiceUrl": "https://www.mapped.com/legal/CustomerAgreement"
